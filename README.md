@@ -60,6 +60,7 @@ css
 Contributing
 
 Contributions to the QR Generator project are always welcome! If you have any ideas, suggestions, bug fixes, or new features to propose, please submit a pull request. Let's work together to enhance the functionality and usability of the QR Generator.
+
 License
 
 The QR Generator is licensed under the MIT License. Feel free to use, modify, and distribute the code for personal and commercial purposes, but please include appropriate attribution.
